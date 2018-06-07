@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": false,
+    "files.associations": {
+        "linkedlist.h": "c",
+        "list.h": "c"
+    }
+}
